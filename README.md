@@ -1,2 +1,2 @@
 # myFirstRepo
-I'm amazing.
+Repo practice

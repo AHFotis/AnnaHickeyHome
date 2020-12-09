@@ -1,3 +1,34 @@
 * {
-    background-color: lightpink;
+    font-family: Helvetica, sans-serif;
+  }
+
+header { 
+    text-align: center;
+    background-color: white;
 }
+
+h1 {
+    font-size: 60px;
+    clear: both;
+    margin: 20px 0 0 0;
+   
+}
+
+ul {
+    float: center;
+}
+
+li {
+    display: inline;
+    padding: 20px;
+    position: relative;
+    top: 20px;
+    font-size: 20px;
+}
+ hr {
+     margin-top: 45px;
+ }
+
+ main {
+    background-color: plum;
+ }

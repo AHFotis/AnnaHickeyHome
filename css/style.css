@@ -1,16 +1,18 @@
-* {
-    font-family: Helvetica, sans-serif;
-  }
 
-header { 
+header{ 
+    padding: 100px;
     text-align: center;
-    background-color: white;
+    background-image: url("/Users/annahickey/AnnaHickeyHome/images/Dusk_Reflections_of_Minneapolis_bgnbvz.jpg");
+    background-size: cover;
+    background-position: 100%;
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 100px;
     clear: both;
     margin: 20px 0 0 0;
+    font-family: 'Monoton', cursive;
+    color: goldenrod;
    
 }
 
@@ -23,11 +25,19 @@ li {
     padding: 20px;
     position: relative;
     top: 20px;
-    font-size: 20px;
+    font-size: 30px;
+    font-family: 'Monoton', cursive;
+    color: goldenrod;
+    font-weight: bold;
 }
- hr {
-     margin-top: 45px;
- }
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: goldenrod;
+}
 
  main {
     background-color: plum;
